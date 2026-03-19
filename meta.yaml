@@ -1,4 +1,4 @@
-name: frida-bridge
-description: Atomic bridge plugin exposing frida_bridge only.
+name: Frida Bridge
+description: Atomic Frida bridge plugin.
 author: vmoranv
 source_repo: https://github.com/vmoranv/jshook_plugin_frida_bridge
